@@ -1,0 +1,3 @@
+# SportsResearch
+
+Analyzing baseball mostly.
